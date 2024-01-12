@@ -1,0 +1,122 @@
+.home-link {
+    font-family: Inter;
+    font-size: 25px;
+    font-weight: 900;
+    line-height: 40px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-left: 26px;
+    color: #000000;
+}
+
+.home-nav {
+    width: 548.15px;
+    height: 111.62px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #FFF7ED;
+
+}
+
+.links-container {
+    width: 116.61px;
+    height: 22.92px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 26px;
+}
+
+.nav-link {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 23px;
+    letter-spacing: 0em;
+    color: #4D4D4D;
+
+
+}
+
+.home-main {
+    width: 548.15px;
+    height: 386.7px;
+    background-image: url("../images/image.png");
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.46);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.home-section {
+    width: 494.33px;
+    height: 256.13px;
+}
+
+.home-section>h2 {
+    font-family: Inter;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 42px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 36px;
+
+}
+
+.home-section>p {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 36px;
+}
+
+.button-container {
+    width: 494.33px;
+    height: 49.83px;
+    border-radius: 5px;
+    background-color: rgba(255, 140, 56, 1);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-container>button {
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 32px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(255, 255, 255, 1);
+    background-color: rgba(255, 140, 56, 1);
+    border: none;
+}
+
+
+footer {
+    width: 548.15px;
+    height: 74.75px;
+    background-color: #252525;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+footer>p {
+    font-family: Inter;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: #AAAAAA;
+}
